@@ -1,0 +1,8 @@
+
+<suite name="Assignment4 Suite">
+  <test name="Api Tests">
+    <classes>
+      <class name="com.vaish.a4.Assignment4.ApiTest"/>
+    </classes>
+  </test>
+</suite>

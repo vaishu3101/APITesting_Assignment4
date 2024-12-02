@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-01T22:34:33 EST" name="Surefire suite" finished-at="2024-12-01T22:34:37 EST" duration-ms="3606">
+    <groups>
+    </groups>
+    <test started-at="2024-12-01T22:34:33 EST" name="Surefire test" finished-at="2024-12-01T22:34:37 EST" duration-ms="3606">
+      <class name="com.vaish.a4.Assignment4.ApiTest">
+        <test-method signature="testAllPosts()[pri:0, instance:com.vaish.a4.Assignment4.ApiTest@3d36e4cd]" started-at="2024-12-01T22:34:33 EST" name="testAllPosts" finished-at="2024-12-01T22:34:36 EST" duration-ms="2409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllPosts -->
+        <test-method signature="testGetRequest()[pri:0, instance:com.vaish.a4.Assignment4.ApiTest@3d36e4cd]" started-at="2024-12-01T22:34:36 EST" name="testGetRequest" finished-at="2024-12-01T22:34:36 EST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRequest -->
+        <test-method signature="testGetWithQueryParameters()[pri:0, instance:com.vaish.a4.Assignment4.ApiTest@3d36e4cd]" started-at="2024-12-01T22:34:36 EST" name="testGetWithQueryParameters" finished-at="2024-12-01T22:34:36 EST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetWithQueryParameters -->
+        <test-method signature="testInvalidEndpoint()[pri:0, instance:com.vaish.a4.Assignment4.ApiTest@3d36e4cd]" started-at="2024-12-01T22:34:36 EST" name="testInvalidEndpoint" finished-at="2024-12-01T22:34:36 EST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidEndpoint -->
+        <test-method signature="testPostRequest()[pri:0, instance:com.vaish.a4.Assignment4.ApiTest@3d36e4cd]" started-at="2024-12-01T22:34:36 EST" name="testPostRequest" finished-at="2024-12-01T22:34:37 EST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostRequest -->
+      </class> <!-- com.vaish.a4.Assignment4.ApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
